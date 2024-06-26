@@ -14,3 +14,5 @@ Open a terminal and enter the commands
 * NuGet Packages
   * Pomelo.EntityFrameworkCore.MySql
   * Microsoft.EntityFrameworkCore.Tools
+  * Microsoft.AspNetCore.Identity.EntityFrameworkCore
+  * Microsoft.AspNetCore.Identity.UI
